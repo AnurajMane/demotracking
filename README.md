@@ -1,2 +1,16 @@
 # demotracking
-Developed the School Bus Tracking System that uses Flutter and Supabase to provide real-time location tracking, QR-based attendance, and role-based access. With offline support, local caching, and QGIS geospatial processing, it ensures reliability and efficiency for parents, drivers, and administrators, enhancing student safety and operational ease
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
